@@ -1,1 +1,1 @@
-Projeto do da Aluta do curso praticando HTML e CSS.
+Projeto Alura do curso praticando HTML e CSS.
